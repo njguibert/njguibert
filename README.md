@@ -13,4 +13,4 @@ My name is Jesús, I'm from Uruguay.
 
 ## Contact
 
-Find all of my socials and resume in my [website](https://jesusguibert.com)
+Find all of my socials and resume in my [website](https://www.jesusguibert.com)
