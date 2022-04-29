@@ -2,7 +2,7 @@
 
 My name is Jesús, I'm from Uruguay.
 
-* Currently working for [@tata](https://twitter.com/tatauruguay) as a Senior Analist and [@UTEC](https://twitter.com/utecuy) as a Proffesor in the Tecnologo en Informatica in infraestructure area.
+* Currently working for [@tata](https://twitter.com/tatauruguay) as a Senior Analyst and [@UTEC](https://twitter.com/utecuy) as a Proffesor in the Tecnologo en Informatica in infraestructure area.
 * I have a [YouTube channel](https://www.youtube.com/channel/UC_8Tc9dE65OaYB7KDWIhm6A) (in Spanish) about the topics of mys courses.
 
 ## Skills
